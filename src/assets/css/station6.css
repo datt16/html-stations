@@ -1,0 +1,37 @@
+header {
+  background: #ffffff;
+}
+
+body {
+  background: hsl(0, 0%, 49%);
+}
+
+nav {
+  background: #726666;
+}
+
+footer {
+  background: #ffffff;
+}
+
+.card {
+  display: inline-block;
+  background: #fff;
+  padding: 6px;
+}
+
+.card__title {
+  color: #282828;
+  font-size: 14px;
+}
+
+.card__description {
+  color: #282828;
+  font-size: 12px;
+}
+
+.card__img-top {
+  margin-bottom: 10px;
+  width: 288px;
+  height: 182px;
+}
